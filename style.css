@@ -15,21 +15,21 @@ body {
 
 h1 {
   color: #777;
-  background-color: #ccc; 
-  margin:5px;
+  background-color: #ebebeb; 
+  margin:20px;
 }
 
 p {
   color: #777;
-  background-color: #ccc; 
-  margin:5px;
+  background-color: #ebebeb; 
+  margin:20px;
 }
 
 header {
 
   clear: both;
   padding: 20px;
-  background: #ccc;
+  background: #ebebeb;
   color: #777;
   margin: auto;
   text-align: center;
@@ -40,7 +40,7 @@ header {
 nav {
 
   padding: 20px;
-  background: #ccc;
+  background: #ebebeb;
   color: #777;
   margin-top: 10px;
   text-align: center;
@@ -48,7 +48,7 @@ nav {
 section {
   margin-top:10px;
   margin-bottom: 10px;
-  background: #ccc;
+  background: #ebebeb;
   text-align: center;
   width: 495px;
   height: 495px;
@@ -64,17 +64,17 @@ aside {
   width: 450px;
   text-align:center;
   float:right;
-  background-color: #ccc;
+  background-color: #ebebeb;
   height: 495px;
   color: #777;
 }
 
 article {
   margin:10px;
-  background: #666;
+  background: #777;
   text-align: center;
   padding-bottom: 5px;
-  color: #ccc;
+  color: #ebebeb;
 
 }
 
@@ -82,7 +82,7 @@ article {
 footer {
   clear: both;
   padding: 20px;
-  background: #ccc;
+  background: #ebebeb;
   color: #777;
   margin: auto;
   text-align: center;
